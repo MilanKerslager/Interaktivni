@@ -8,7 +8,7 @@ int main(void) {
 	printf("3) kruznice\n");
 	scanf("%d", &vstup);
 	if (vstup == 1) {
-		// resime trojuhelnik
+		// resime  trojuhelnik
 
 	} else if (vstup == 2) {
 		// resime obdelnik
